@@ -43,6 +43,7 @@ ros2 run destroyer_robot check_move_destroyer
 ros2 run destroyer_robot auto_mode_destroyer
 ros2 run destroyer_robot drive_mode_destroyer
 ```
-
+<figcaption align ="center"> my momen gw ketika tugasnya udah done selesai</figcaption>
+<img src="https://media1.tenor.com/m/UKimM5KATKAAAAAC/mas-rusdi-si-imut.gif" width = 50% height = 50%>
 ## video presentasi
 []
