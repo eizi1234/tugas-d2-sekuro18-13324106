@@ -17,7 +17,9 @@ Destroyer robot adalah sekumpulan file dalam satu (package) berbahasa ROS2 yang 
 - `move_destroyer` = menerima perintah untuk menggerakan robot tempur
 
 ## Diagram Node - Topic
-<img align "center" src="Screenshot 2026-04-05 093708.png">
+
+<img align = "center" width="808" height="192" alt="Screenshot 2026-04-05 093708" src="https://github.com/user-attachments/assets/e3fe7204-082c-414b-b707-4319ff9e923e" />
+
 auto_mode_destroyer  →  /autonomous_destroyer  →┐
 → check_move_destroyer → /power_destroyer → move_destroyer
 drive_mode_destroyer →  /drive_destroyer       →┘
