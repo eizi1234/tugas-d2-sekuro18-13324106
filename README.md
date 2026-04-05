@@ -1,7 +1,7 @@
-<p align="center" style="width=60% height =60%;">
+<div align ="center">
     <figcaption><center><b>my momen ketika rill gw ketika dikasi tugas bawang</b></center></figcaption>
-  <img src="https://media1.tenor.com/m/p-_J1OAA_RwAAAAC/sad.gif" width="100%" alt="momen ketika dikasi tugas bawang">
-</p>
+  <img src="https://media1.tenor.com/m/p-_J1OAA_RwAAAAC/sad.gif" width="60%" height = 60% alt="momen ketika dikasi tugas bawang">
+</div>
 
 # Tugas Sekuro Day 2 - Destroyer Robot sang Penghitaman Massal
 
