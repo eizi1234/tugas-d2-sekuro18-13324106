@@ -12,8 +12,8 @@
 ## Informasi File-File Algoritma
 Destroyer robot adalah sekumpulan file dalam satu (package) berbahasa ROS2 yang disimulasikan menjadi program dari sebuah robot tempur dengan 4 node:
 - `auto_mode_destroyer` = bergerak otomastis tanpa inut
-- `check_move_destroyer`= dikontrol keyboard sebagai input
-- `drive_mode_destroyer`= penghubung antara input file publisher  drive/auto ke file subscriber algoritma move
+- `check_move_destroyer`= penghubung antara input file publisher  drive/auto ke file subscriber algoritma move
+- `drive_mode_destroyer`= dikontrol keyboard sebagai input 
 - `move_destroyer` = menerima perintah untuk menggerakan robot tempur
 
 ## Diagram Node - Topic
