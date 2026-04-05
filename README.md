@@ -1,5 +1,5 @@
 <p align="center" style="width=60% height =60%;">
-    <figcaption><center><b>my momen ketika rill gw ketika dikasi tugas bawang</b><</center>/figcaption>
+    <figcaption><center><b>my momen ketika rill gw ketika dikasi tugas bawang</b></center>/figcaption>
   <img src="https://media1.tenor.com/m/p-_J1OAA_RwAAAAC/sad.gif" width="100%" alt="momen ketika dikasi tugas bawang">
 </p>
 
@@ -43,7 +43,7 @@ ros2 run destroyer_robot check_move_destroyer
 ros2 run destroyer_robot auto_mode_destroyer
 ros2 run destroyer_robot drive_mode_destroyer
 ```
-<figcaption><center> my momen gw ketika tugasnya udah done selesai</center></figcaption>
+<center> my momen gw ketika tugasnya udah done selesai</center>
 <img align ="center" src="https://media1.tenor.com/m/UKimM5KATKAAAAAC/mas-rusdi-si-imut.gif" width = 50% height = 50%>
 ## video presentasi
 []
