@@ -8,14 +8,14 @@
 - **NAMA** : aina
 - **NIM**  : 13324106
 
-##Informasi File-File Algoritma
+## Informasi File-File Algoritma
 Destroyer robot adalah sekumpulan file dalam satu (package) berbahasa ROS2 yang disimulasikan menjadi program dari sebuah robot tempur dengan 4 node:
 - `auto_mode_destroyer` = bergerak otomastis tanpa inut
 - `check_move_destroyer`= dikontrol keyboard sebagai input
 - `drive_mode_destroyer`= penghubung antara input file publisher  drive/auto ke file subscriber algoritma move
 - `move_destroyer` = menerima perintah untuk menggerakan robot tempur
 
-##Diagram Node - Topic
+## Diagram Node - Topic
 
 auto_mode_destroyer  →  /autonomous_destroyer  →┐
 → check_move_destroyer → /power_destroyer → move_destroyer
