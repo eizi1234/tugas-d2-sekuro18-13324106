@@ -1,6 +1,5 @@
-
+<p align="center" style="width=60% height =60%;">
     <figcaption align="center"><b>my momen ketika rill gw ketika dikasi tugas bawang</b></figcaption>
-    <p align="center" style="width=60% height =60%;">
   <img src="https://media1.tenor.com/m/p-_J1OAA_RwAAAAC/sad.gif" width="100%" alt="momen ketika dikasi tugas bawang">
 </p>
 
