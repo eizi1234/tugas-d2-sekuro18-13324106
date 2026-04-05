@@ -48,7 +48,14 @@ ros2 run destroyer_robot auto_mode_destroyer
 ros2 run destroyer_robot drive_mode_destroyer
 ```
 ## video presentasi
-[]
+
+
+<div align="center">
+  <a href="https://youtu.be/9uTFwDSejLw?si=YH9nTf2eIbJ5Ewbk">
+    <img width="638" height="365" alt="Screenshot 2026-04-05 095205" src="https://github.com/user-attachments/assets/b6aa5c55-eaab-4120-b7d1-1bc61c5b0393" />
+  </a>
+  <p><i>Klik gambar di atas untuk menonton video di YouTube</i></p>
+</div>
 
 <div align ="center">
 <p> my momen gw ketika tugasnya udah done selesai</p>
