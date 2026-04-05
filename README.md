@@ -1,4 +1,4 @@
-<p align="center" style="width=100%;">
+<p align="center" style="width=80% height =80%;">
   <img src="https://media1.tenor.com/m/p-_J1OAA_RwAAAAC/sad.gif" width="100%" alt="momen ketika dikasi tugas bawang">
 </p>
 
