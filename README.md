@@ -1,5 +1,5 @@
 <p align="center" style="width=100%;">
-  <img src="https://tenor.com/view/sad-gif-12101112639896223004](https://media1.tenor.com/m/p-_J1OAA_RwAAAAC/sad.gif" width="100%" alt="momen ketika dikasi tugas bawang">
+  <img src="https://media1.tenor.com/m/p-_J1OAA_RwAAAAC/sad.gif" width="100%" alt="momen ketika dikasi tugas bawang">
 </p>
 
 # Tugas Sekuro Day 2 - Destroyer Robot sang Penghitaman Massal
